@@ -2,3 +2,5 @@ Git is a version control system.
 Git is free softweare.
 
 Added by Xu S1
+
+Added after connecting with Github
